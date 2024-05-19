@@ -1,16 +1,13 @@
 ## Social Midia 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE AQUI O URL DO SEU PERFIL DO LINKEDIN) 
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](COLE AQUI O URL DO SEU CANAL NO YOUTUBE)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-eduardo-7694ab195/)
 
 
-
-![FULANO'S GitHub stats](https://github-readme-stats.vercel.app/api?username=COLEAQUISEUPERFILDOGITHUB&show_icons=true&theme=transparent)
+![FULANO'S GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoEAMarques&show_icons=true&theme=transparent)
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COLEAQUISEUPERFILDOGITHUB&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoEAMarques&langs_count=8&theme=dark)
 
 ## Technologies and Tools
 
